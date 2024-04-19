@@ -57,7 +57,7 @@ arcolinux-rofi-git
 arcolinux-rofi-themes-git
 arcolinux-wallpapers-git
 arcolinux-newm-git
-arcolinux-xfce-git
+arconet-xfce
 dconf-editor
 feh
 foot
